@@ -104,10 +104,10 @@ BigTextcolor = html_color["light-green"]
 style = "danger"
 
 # URLS
-dfpsurl = "https://raw.githubusercontent.com/MaxLastBreath/TOTK-mods/main/scripts/settings/DFPS.json"
-cheatsurl = "https://raw.githubusercontent.com/MaxLastBreath/TOTK-mods/main/scripts/settings/Cheats.json"
-presetsurl = "https://raw.githubusercontent.com/MaxLastBreath/TOTK-mods/main/scripts/settings/presets.json"
-versionurl = "https://raw.githubusercontent.com/MaxLastBreath/TOTK-mods/main/scripts/settings/VersionNew.json"
-descurl = "https://raw.githubusercontent.com/MaxLastBreath/TOTK-mods/main/scripts/settings/Description.json"
+dfpsurl = "https://raw.githubusercontent.com/codercurtis/TOTK-mods/main/scripts/settings/DFPS.json"
+cheatsurl = "https://raw.githubusercontent.com/codercurtis/TOTK-mods/cheats-1.2.1/scripts/settings/Cheats.json"
+presetsurl = "https://raw.githubusercontent.com/codercurtis/TOTK-mods/main/scripts/settings/presets.json"
+versionurl = "https://raw.githubusercontent.com/codercurtis/TOTK-mods/main/scripts/settings/VersionNew.json"
+descurl = "https://raw.githubusercontent.com/codercurtis/TOTK-mods/main/scripts/settings/Description.json"
 
 description = load_json("Description.json", descurl)
